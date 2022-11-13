@@ -1,0 +1,23 @@
+ul{
+  background-color: aqua;
+  font-size: large;
+  font-style: rgb(23, 27, 27);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p_welcome{
+    background-color: rgb(24, 8, 144);
+    color: aqua;
+    font-weight: 700;
+    font-size: large;
+    }
+
+.parghraf_dumy{
+    background-color:rgb(72, 158, 125)
+}
+#h1{
+  background-color: aquamarine;
+  display: inline;
+  font-family: 'Marhey', cursive;
+  font-size: 600;
+}
